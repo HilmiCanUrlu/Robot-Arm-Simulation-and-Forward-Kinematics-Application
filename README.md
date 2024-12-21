@@ -1,7 +1,9 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+<a href="https://www.linkedin.com/in/hilmi-can-ürlü-6a7855329" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=HilmiCanUrlu.Robot-Arm-Simulation-and-Forward-Kinematics-Application" />
 
 <!-- PROJECT LOGO -->
@@ -71,7 +73,7 @@ cd Robot-Arm-Simulation
 ```
 3. Run the simulation:
 ```sh
-python main.py
+python robot_arm_simulation.py
 ```
 
 <!-- USAGE EXAMPLES -->
@@ -111,7 +113,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## 📧 Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - your_email@example.com
+Hilmi Can Ürlü- [@UrluCan](https://x.com/UrluCan) - Urluhilmi7@gmail.com
 
 Project Link: [https://github.com/HilmiCanUrlu/Robot-Arm-Simulation-and-Forward-Kinematics-Application](https://github.com/HilmiCanUrlu/Robot-Arm-Simulation-and-Forward-Kinematics-Application)
 
@@ -130,5 +132,4 @@ Project Link: [https://github.com/HilmiCanUrlu/Robot-Arm-Simulation-and-Forward-
 [stars-url]: https://github.com/HilmiCanUrlu/Robot-Arm-Simulation-and-Forward-Kinematics-Application/stargazers
 [issues-shield]: https://img.shields.io/github/issues/HilmiCanUrlu/Robot-Arm-Simulation-and-Forward-Kinematics-Application?style=for-the-badge
 [issues-url]: https://github.com/HilmiCanUrlu/Robot-Arm-Simulation-and-Forward-Kinematics-Application/issues
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/your-profile
+
