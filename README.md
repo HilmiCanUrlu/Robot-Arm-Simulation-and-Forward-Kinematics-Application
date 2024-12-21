@@ -1,6 +1,6 @@
 # Robot Kol Simülasyonu
 
-![Build Status](https://img.shields.io/github/workflow/status/username/repository/CI)
+![Build Status](https://img.shields.io/github/workflow/status/HilmiCanUrlu/repository/CI)
 ![License](https://img.shields.io/github/license/username/repository)
 ![Language](https://img.shields.io/github/languages/top/username/repository)
 ![Version](https://img.shields.io/github/v/release/username/repository)
